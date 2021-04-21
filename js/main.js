@@ -309,7 +309,7 @@
             zoom: 16 // Google Map ZOOM. You can change this value
         });
         $("#map").addMarker({
-            address: "Christchurch Central City, Christchurch, New Zealand", // Your Address. Change it
+            address: "Christchurch Central City, Christchurch, New Zealand", //Address
         });
     });
 
